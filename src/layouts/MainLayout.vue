@@ -16,7 +16,6 @@
             <img src="~assets/tasks.webp" alt="task logo" />
           </q-avatar>
           Task App
-         
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
@@ -47,7 +46,7 @@
         <div class="absolute-bottom bg-transparent">
           <q-avatar class="q-mb-sm" size="56px">
             <img
-            src="https://cdn.everskies.com/media/avatar/6v4DG8dzfKSwAxeyliar.png"
+              src="https://cdn.everskies.com/media/avatar/6v4DG8dzfKSwAxeyliar.png"
               alt="Avatar image"
             />
           </q-avatar>
@@ -73,11 +72,6 @@ const linksList = [
     title: "Home",
     icon: "home",
     link: "home",
-  },
-  {
-    title: "Profile",
-    icon: "face",
-    link: "profile",
   },
 ];
 
